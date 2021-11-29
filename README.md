@@ -76,7 +76,9 @@ python3 bot.py
 
 ## Raiway deploy 
 
-
+<details><summary>Deploy To Raiway</summary>
+<p>
+<pre>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fpp405810%2FEvaMaria&envs=ADMINS%2CAPI_HASH%2CAPI_ID%2CAUTH_CHANNEL%2CAUTH_USERS%2CBOT_TOKEN%2CCACHE_TIME%2CCHANNELS%2CCOLLECTION_NAME%2CCUSTOM_FILE_CAPTION%2CDATABASE_NAME%2CDATABASE_URI%2CIMDB%2CLOG_CHANNEL%2CP_TTI_SHOW_OFF%2CPICS%2CSINGLE_BUTTON%2CSUPPORT_CHAT%2CUSE_CAPTION_FILTER%2CIMDB_TEMPLATE%2CIMDB&optionalEnvs=AUTH_USERS%2CP_TTI_SHOW_OFF&CACHE_TIMEDefault=300&COLLECTION_NAMEDefault=Telegram_files&IMDBDefault=True&IMDB_TEMPLATEDefault=Hey+%F0%9F%91%8B+%7Bmessage.from_user.mention%7D%2C++%F0%9F%8E%83I+FIND+OUT+WHAT+DO+YOU+WANT%F0%9F%A4%A0++%7Bquery%7D++%3Cb%3E%F0%9F%8F%B7+Title%3C%2Fb%3E%3A+%3Ca+href%3D%7Burl%7D%3E%7Btitle%7D%3C%2Fa%3E+%F0%9F%8E%AD+Genres%3A+%7Bgenres%7D+%F0%9F%93%86+Year%3A+%3Ca+href%3D%7Burl%7D%2Freleaseinfo%3E%7Byear%7D%3C%2Fa%3E+%F0%9F%8C%9F+Rating%3A+%3Ca+href%3D%7Burl%7D%2Fratings%3E%7Brating%7D%3C%2Fa%3E+%2F+10+%28based+on+%7Bvotes%7D+user+ratings.%29+%E2%98%80%EF%B8%8F+Languages+%3A+%3Ccode%3E%7Blanguages%7D%3C%2Fcode%3E+%F0%9F%93%80+RunTime%3A+%7Bruntime%7D+Minutes+%F0%9F%93%86+Release+Info+%3A+%7Brelease_date%7D+%F0%9F%8E%9B+Countries+%3A+%3Ccode%3E%7Bcountries%7D%3C%2Fcode%3E+%F0%9F%91%80+Plot+%3A+%3Ccode%3E%7Bplot%7D%3C%2Fcode%3E+Powered+By+%F0%9F%98%8E+%7Bmessage.chat.title%7D&referralCode=DBBOTZ)
 
 
