@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/57ce0dd15051ce7b06ed6.jpg" alt="MALAYALAM MOVIES LOGO">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Malayalam movies Bot</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Stars](https://img.shields.io/github/stars/pp405810/EvaMaria?style=flat-square&color=yellow)](https://github.com/pp405810/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/pp405810/EvaMaria?style=flat-square&color=orange)](https://github.com/pp405810/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/pp405810/EvaMaria?style=flat-square&color=green)](https://github.com/pp405810/EvaMaria/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Contributors](https://img.shields.io/github/contributors/pp405810/EvaMaria?style=flat-square&color=green)](https://github.com/pp405810/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/pp405810/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/pp405810/EvaMaria.svg)](https://stars.medv.io/pp405810/EvaMaria)
 
 
 ## Features
