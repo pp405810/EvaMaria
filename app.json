@@ -1,6 +1,7 @@
 {
     "name": "EvaMariaBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "logo": "https://telegra.ph/file/57ce0dd15051ce7b06ed6.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
